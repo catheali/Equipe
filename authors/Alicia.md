@@ -1,9 +1,9 @@
-## Alicia Catherine
+## Alicia Catherine :sparkles:
 - FullStack Developer
 > Fortaleza, Ceara, Brasil
 
 ```
-imagine aqui uma frase boa :sparkles:
+imagine aqui uma frase boa 
 ```
 
 ---
