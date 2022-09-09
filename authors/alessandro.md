@@ -6,6 +6,10 @@
 Resiliencia sempre...
 ```
 
+```html
+<head>mó paz</head>
+```
+
 --- 
 - [Site/Curriculo](https://alessandrofeitoza.github.io)
 - [Instagram](https://instagram.com/alessandro_feitoza) 
