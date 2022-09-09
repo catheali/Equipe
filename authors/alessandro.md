@@ -7,7 +7,7 @@ Resiliencia sempre...
 ```
 
 ```html
-<head>mó paz</head>
+<head class="teste">mó paz</head>
 ```
 
 --- 
