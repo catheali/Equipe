@@ -1,4 +1,8 @@
 ## Alessandro Feitoza
 - Fullstack Developer
+>>> Fortaleza, Ceará, Brasil
 
-[Instagram](https://instagram.com/alessandro_feitoza) 
+--- 
+- [Site/Curriculo](https://alessandrofeitoza.github.io)
+- [Instagram](https://instagram.com/alessandro_feitoza) 
+
