@@ -1,6 +1,10 @@
 ## Alessandro Feitoza
 - Fullstack Developer
->>> Fortaleza, Ceará, Brasil
+> Fortaleza, Ceará, Brasil
+
+```
+Resiliencia sempre...
+```
 
 --- 
 - [Site/Curriculo](https://alessandrofeitoza.github.io)
